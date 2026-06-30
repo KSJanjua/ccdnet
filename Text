@@ -1,0 +1,13 @@
+KLOC = 1656 (you can write 1.7 KLOC)\
+
+Model and Algorithm detailsCCD-Net — dual-branch (luminance + chroma) U-Net in learnable HVI; colour↔content channel cross-attention; SFT modulation; explicit ΔE colour loss; EMA weights; ~10.8M params
+
+github link : https://github.ecodesamsung.com/SRIB-PRISM/25VI25TU_Low_Light_Brightness_Enhancement_Without_Color_Shift
+
+LOL dataset LINK : https://www.kaggle.com/datasets/soumikrakshit/lol-dataset
+
+https://figshare.com/articles/dataset/_Information_zip/27192921
+for all other dataset link
+
+10+8+17+65=100 images in daata folder 3 (number of data points)
+
